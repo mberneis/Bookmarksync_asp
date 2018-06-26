@@ -1,0 +1,1 @@
+<% response.redirect "common/login.asp?" & request.querystring() %>

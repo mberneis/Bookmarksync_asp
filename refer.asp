@@ -1,0 +1,1 @@
+<% response.redirect "common/refer.asp?" & request.querystring() %>

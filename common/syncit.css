@@ -1,0 +1,353 @@
+body, td,th {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+}
+
+table.f11 td{
+	font-size : 11px;
+}
+
+input, select, textarea, reset, button, password {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	background-color : #F0F0FF;
+}
+
+.login {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : normal;
+	position : relative;
+	width : 180px;
+}
+
+.register {
+	width : 318px;
+	font-size : 12px;
+	font-weight : normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+.shortbox {
+	width : 318px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : normal;
+}
+
+.longbox {
+/* width : 419px; */
+	width : 490px;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : normal;
+}
+
+h2 {
+	font-size : 16pt;
+	font-weight : normal;
+	font-family: Futura, Verdana, Arial, Helvetica, sans-serif;
+	color:#3300CC;
+	text-transform: uppercase;
+}
+
+h3 {
+	color : #330099;
+	font-size : 15px;
+	font-weight : bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+h4 {
+	color : #330099;
+	font-size : 12px;
+	font-weight : bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+}
+
+.footer {
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	font-size : 10px;
+	font-weight : normal;
+	color: #000000;
+}
+
+.footer A {
+	text-decoration : none;
+}
+.footer A:link {
+	color : #000000;
+}
+.footer A:visited {
+	color : #000000;
+}
+.footer A:hover {
+	color : #0000FF;
+	text-decoration: underline;
+}
+
+.menul {
+	font-size : 9px;
+	font-weight : bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-transform: uppercase;
+}
+
+.menul A {
+	color : #0000FF
+}
+
+.menub {
+	color : #000000;
+	font-size : 9px;
+	font-weight : bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+	text-transform: uppercase;
+}
+
+.menub A {
+	text-decoration : none;
+}
+
+.menuw {
+	color : #FFFFFF;
+	font-size : 9px;
+	font-weight : bold;
+	text-transform: uppercase
+}
+
+.menuw A {
+	text-decoration : none;
+}
+
+.menub A:link {
+	color : #000000;
+	text-decoration : none;
+}
+
+.menub A:visited {
+	color : #000000;
+}
+
+.menul A:visited {
+	color : #0000FF;
+}
+
+.menul A:link {
+	color : #0000FF;
+	text-decoration : none;
+}
+
+.menuw A:link {
+	color : #FFFFFF;
+	text-decoration : none;
+}
+
+.menuw A:visited {
+	color : #FFFFFF;
+}
+
+.menub A:hover {
+	text-decoration : underline;
+}
+
+.menuw A:hover {
+	text-decoration : underline;
+}
+
+.commondivop {
+	background-image : url("../images/menu_bluebg.gif");
+}
+
+.bmdivop {
+	background-image : url("../images/menu_bmbg.gif");
+}
+
+.colldivop {
+	background-image : url("../images/vermenu.gif");
+}
+
+.newsdivop {
+	background-image : url("../images/menu_news.gif");
+}
+
+.exdivop{
+	background-image : url("../images/menu_express.gif");
+}
+
+.collabel1 {
+	padding-top : 2px;
+	background-color : #FF9966;
+	color : #000099;
+	font-size : 13px;
+	font-weight : bold;
+	padding-bottom : 2px;
+	padding-left : 2px;
+	padding-right : 2px;
+	width : 100px;
+}
+
+.collabel2 {
+	padding-top : 2px;
+	background-color : #FF9966;
+	color : #000000;
+	font-size : 13px;
+	font-weight : bold;
+	padding-bottom : 2px;
+	padding-left : 2px;
+	padding-right : 2px;
+	width : 200px;
+}
+
+.newsbtn {
+	background-color : #660099;
+	color : #FFFFFF;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	font-weight : bold;
+}
+
+.newslist1 {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-top : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	padding-top : 0px;
+	width : 220px;
+}
+
+.newslist2 {
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	margin-bottom : 0px;
+	margin-left : 0px;
+	margin-right : 0px;
+	margin-top : 0px;
+	padding-bottom : 0px;
+	padding-left : 0px;
+	padding-right : 0px;
+	padding-top : 0px;
+	width : 480px;
+}
+
+
+ 
+.f11 {
+	font-size : 11px;
+}
+
+.newsheader {
+	color : #FFFFFF;
+	font-size : 17px;
+	font-weight : bold;
+	height : 30px;
+}
+
+.pbutton {
+	background-color : #660099;
+	border-bottom-width : 2px;
+	border-color : #FF99FF #660066 #660066 #FF99FF;
+	border-left-width : 2px;
+	border-right-width : 2px;
+	border-style : outset;
+	border-top-width : 2px;
+	color : #FFFFFF;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 9px;
+	font-weight : bold;
+	text-transform: uppercase;
+}
+
+.newsbox {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	height : 146px;
+	width : 230px;
+	border-width :  0;
+}
+
+.newsbox A:link {
+	color : #000000;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	text-decoration : none;
+}
+
+.newsbox A:visited {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	color : #000000;
+	text-decoration : none;
+}
+
+.newsbox A:hover {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	color : #990099;
+	text-decoration : underline;
+}
+
+.newsbox2 {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	height : 100px;
+	width : 491px;
+}
+
+.newsbox2 A:link {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	color : #000000;
+	text-decoration : none;
+}
+
+.newsbox2 A:visited {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	color : #000000;
+	text-decoration : none;
+}
+
+.newsbox2 A:hover {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 12px;
+	color : #990099;
+	text-decoration : underline;
+}
+
+.fi {
+    font-family: "MS Sans Serif", Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+	list-style-image: url("../tree/f.gif");
+	cursor: hand;
+}
+
+
+.mi {
+    font-family: "MS Sans Serif", Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+	list-style-image: url("../tree/i.gif");
+}
+
+.bi {
+	font-family: "MS Sans Serif", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	list-style-image: url("../tree/a.gif");
+}
+
+.bi a:link {text-decoration: none; color: #000099; }
+.bi a:visited {text-decoration: none; color: #000099; }
+.bi a:hover {text-decoration: underline;color: #0000FF; }
+.mi a:link {text-decoration: none; color: #000000; }
+.mi a:visited {text-decoration: none; color: #333333; }
+.mi a:hover {text-decoration: underline;color: #0000FF; }
+.shuttle li {  line-height: 200%}
+.intro {  list-style-image: url(/images/intropoint.gif); padding-right: 5px; padding-left: 5px}

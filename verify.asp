@@ -1,0 +1,1 @@
+<% response.redirect "common/verify.asp?" & request.querystring() %>

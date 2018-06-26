@@ -1,0 +1,1 @@
+<% response.redirect "common/profile.asp?" & request.querystring() %>

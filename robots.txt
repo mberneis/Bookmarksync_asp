@@ -1,0 +1,8 @@
+User-agent: *
+disallow: /download
+
+User-agent: SyncBot
+disallow: /nosyncbot
+
+User-agent: SyncIT
+disallow: /nosyncit
